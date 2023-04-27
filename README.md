@@ -1,4 +1,4 @@
-<strong> Olá eu sou o Lucas Arrais</strong> 👋
+<strong> Olá eu sou o Lucas Arrais</strong> :wink:
 <br>
 <br>  
 Eu tenho 38 anos, sou um programador Front End, atualmente estou aprendendo e criando projetos
