@@ -11,6 +11,6 @@ Eu tenho 38 anos, sou um programador Front End, atualmente estou aprendendo e cr
 [![Arrais22's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Arrais22&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Arrais22)
 <br>
 <br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arrais22&repo=github-readme-stats)](https://github.com/Arrais22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arrais22&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 
