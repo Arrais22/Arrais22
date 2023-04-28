@@ -1,7 +1,7 @@
 <strong> Hi, i'm Lucas Arrais</strong> :wink:
 <br>
 <br>  
-I'm 38 years old, I'm a Front End programmer, I'm currently learning and creating projects in languages:
+<strong>I'm 38 years old, I'm a Front End programmer, I'm currently learning and creating projects in languages:</strong>
 <br>  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
 <br>
@@ -10,9 +10,8 @@ I'm 38 years old, I'm a Front End programmer, I'm currently learning and creatin
 <br>
 <br>
 <br>
-<br>
-<br>
-Future languages and tools
+
+<strong>Future languages and tools:</strong>
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="java-logo" />
 <br>
