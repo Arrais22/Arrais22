@@ -24,7 +24,9 @@
 <br>
 <strong> Connect with me:</strong>
 <br>
-<a href="https://www.instagram.com/lucas.arrais/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-insta" /></a> <a href="https://www.facebook.com/lucas.arrais.35"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="logo-face" /></a> 
+<a href="https://www.instagram.com/lucas.arrais/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-insta" /></a>
+<br>
+<a href="https://www.facebook.com/lucas.arrais.35"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="logo-face" /></a> 
 <br>
 <br>
 <br> 
