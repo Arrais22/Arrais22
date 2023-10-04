@@ -1,5 +1,4 @@
 <strong> Hi, i'm Lucas Arrais</strong> :wink:
-<br>
 <br>  
 <strong>I'm 38 years, I'm a Front End programmer student, I'm currently learning and creating projects in languages:</strong>
 <br>  
@@ -14,17 +13,15 @@
 
 <strong>Future languages and tools:</strong>
 <br>
-<br>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node-logo" />
 <br>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="neact-logo"/>
 <br>
 <br>
 <br>
-<br>
-<br>
 
 <strong> Connect with me:</strong>
+<br>
 <a href="https://www.instagram.com/lucas.arrais/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-insta" /></a>
 <br>
 <a href="https://www.facebook.com/lucas.arrais.35"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="logo-face" /></a> 
