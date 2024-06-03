@@ -1,6 +1,6 @@
-<strong> Hi, i'm Lucas Arrais</strong> :wink:
+<strong> Oi, eu sou Lucas Arrais</strong> :wink:
 <br>  
-<strong>I'm 38 years, I'm a Front-end student programmer, I'm currently learning and creating projects in languages:</strong>
+<strong>Tenho 38 anos, sou estudante de programação, atualmente estou aprendendo e criando projetos nos idiomas:</strong>
 <br>  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
 <br>
@@ -11,7 +11,7 @@
 <br>
 <br>
 
-<strong>Future languages and tools:</strong>
+<strong>Linguagens e ferramentas futuras:</strong>
 <br>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node-logo" />
 <br>
@@ -20,7 +20,7 @@
 <br>
 <br>
 
-<strong> Connect with me:</strong>
+<strong>Conecte-se comigo:</strong>
 <br>
 <a href="https://www.instagram.com/lucas.arrais/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-insta" /></a>
 <br>
