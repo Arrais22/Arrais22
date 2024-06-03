@@ -26,7 +26,7 @@
 <br>
 <a href="https://www.facebook.com/lucas.arrais.35"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="logo-face" /></a> 
 <br>
-<a href="https://www.linkedin.com/in/lucas-arrais-7a3829276"><https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=logo-link /></a>
+<a href="https://www.linkedin.com/in/lucas-arrais-7a3829276/"><https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=logo-link" /></a>
 <br>
 <br> 
 [![Arrais22's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Arrais22&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Arrais22)
