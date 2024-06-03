@@ -13,6 +13,7 @@
 
 <strong>Linguagens e ferramentas futuras:</strong>
 <br>
+<br>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node-logo" />
 <br>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="neact-logo"/>
@@ -22,12 +23,12 @@
 
 <strong>Conecte-se comigo:</strong>
 <br>
+<br>
 <a href="https://www.instagram.com/lucas.arrais/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo-insta" /></a>
 <br>
-<a href="https://www.facebook.com/lucas.arrais.35"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="logo-face" /></a> 
-<br>
-<a href="https://www.linkedin.com/in/lucas-arrais-7a3829276/"><https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=logo-link" /></a>
-<br>
+<a href="https://www.linkedin.com/in/lucas-arrais-7a3829276/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-link" /></a>
+<br> 
+<br> 
 <br> 
 [![Arrais22's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Arrais22&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Arrais22)
 <br>
